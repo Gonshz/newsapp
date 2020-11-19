@@ -4,7 +4,7 @@
 	import Date from "./HeaderComponent/Date.svelte";
 	import Info from "./HeaderComponent/Info.svelte";
 	import Other from "./HeaderComponent/Other.svelte";
-	import Arrow from "./arrow.svelte";
+	import Arrow from "./Arrow.svelte";
 	import { onMount } from "svelte";
 	import { NewsApiLoader, SearchUrl, sourceLoad, MakeArticlesList } from "./helper.js";
 

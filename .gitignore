@@ -4,3 +4,5 @@
 .DS_Store
 
 .now
+# Local Netlify folder
+.netlify
